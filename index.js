@@ -2,9 +2,9 @@ const scrape = require('website-scraper');
 
 let options = {
     urls: [
-    	'http://gentlemen-barberclubs.de/'
+    	'https://www.aphrodite1994.com/brands'
     ],
-    directory: './barber',
+    directory: './designers',
 };
 
 scrape(options).then((result) => {
